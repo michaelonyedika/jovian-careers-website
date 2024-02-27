@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jovian_careers_websites.iml" filepath="$PROJECT_DIR$/.idea/jovian_careers_websites.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../whatsapp_automation/.idea/whatsapp_automation.iml" filepath="$PROJECT_DIR$/../whatsapp_automation/.idea/whatsapp_automation.iml" />
+    </modules>
+  </component>
+</project>
